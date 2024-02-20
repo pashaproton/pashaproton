@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @pashaproton (Pavlo Ivanichenko). I'm from Ukraine, Kharkiv. Unfortunately because of russian invasion, I'm looking for a new place in the world.
+- 👋 Hi, I’m @pashaproton (Pavlo Ivanichenko). I'm from Ukraine, Kharkiv.
 - 👀 I’m interested in learning new things, coding, managing and simracing.
-- 🌱 I love to work with C/C++, Rust, Python, and JavaScript
+- 🌱 I love to work with C/C++, Python, and JavaScript.
 <!-- 💞️ I’m looking to collaborate on projects which -->
 <!-- 📫 How to reach me (twitter)[] -->
 
