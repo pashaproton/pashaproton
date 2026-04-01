@@ -23,7 +23,7 @@ Senior Software Engineer focused on distributed systems, infrastructure, and hig
 **Infra:** OCI, Linux, SSH, CI/CD  
 **Concepts:** Distributed systems, system design, performance optimization  
 
-<!-- ## ⚡ Projects
+## ⚡ Projects
 
 ### 🔧 logtail (Rust)
 High-performance CLI tool for streaming and filtering logs
@@ -32,7 +32,7 @@ High-performance CLI tool for streaming and filtering logs
 - Low memory footprint
 - Real-time filtering
 
-### 📊 CSV Optimizer (Rust)
+<!-- ### 📊 CSV Optimizer (Rust)
 
 - Reduced processing time from ~20 minutes (Java) → a few minutes
 - Streaming-based processing for multi-GB datasets
