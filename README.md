@@ -32,6 +32,17 @@ High-performance CLI tool for streaming and filtering logs
 - Low memory footprint
 - Real-time filtering
 
+### 💪 Fitness Reps (WPA)
+Minimalist workout tracking app focused on simplicity and speed
+
+[https://pashaproton.github.io/fitness-reps/](https://pashaproton.github.io/fitness-reps/)
+
+- Track exercises and sets (e.g. pushups: 10, 10, 8, 7)
+- Historical progress tracking per exercise
+- Lightweight backend (Rust + SQLite)
+- Mobile-friendly PWA (no App Store headaches)
+- Designed for fast input during workouts
+
 <!-- ### 📊 CSV Optimizer (Rust)
 
 - Reduced processing time from ~20 minutes (Java) → a few minutes
